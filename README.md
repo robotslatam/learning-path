@@ -211,13 +211,25 @@ Introducción al aprendizaje automático.
 **Introducción a la robótica**
 Historia y teoría de la robótica.
 
+**Cinemática directa**
+
+**Criterio de Grübler**
+
+**Criterio con base en restricciones**
+
+**Parametros de Denavit-Hartenberg**
+
 **Cinemática Inversa**
+
+**Cinemática Diferencial**
 
 **Dinámica Inversa**
 
 **Planificación**
 
 **Localización**
+
+**SLAM**
 
 **ROS**
 Introducción y uso del sistema operativo ROS.
