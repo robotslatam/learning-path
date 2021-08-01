@@ -271,7 +271,7 @@ Tópicos de programación para ingeniería.
 
 ### Contribuidores
 Si haces una contribución de contenido no olvides agregarte en esta lista :D
-
+- Dhilan Ibarra (@dhilannnnnnn)
 ### Robots Latam
 Somos una comunidad en español para promover el desarrollo de la robotica en latinoamérica.
 
