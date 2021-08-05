@@ -93,8 +93,10 @@ Fundamentos prácticos de electrónica digital.
 
 **Diseño asistido por computadora**
 Herramientas de diseño de PCBs.
-- SPICE
 - KiCAD
+
+Simulación de circuitos
+- SPICE
 
 **Fabricación de PCB**
 Teoría y práctica de procesos de fabricacion artesanal e industrial de placas de circuito impreso.
@@ -152,6 +154,8 @@ Introducción a los sistemas digitales inalámbricos.
     - Sigfox
     - GSM
     - WiFi
+    - Bluetooth
+    - BLE
 
 **Métodos de fabricación industrial de circuitos integrados**
 Física, química e ingeniería en los procesos de fabricación de chips.
@@ -205,6 +209,9 @@ Introducción a la visión por computadora.
 
 **Aprendizaje Automático**
 Introducción al aprendizaje automático.
+- Machine Learning
+- Deep Learning
+- Reinforcement learning
 
 ## Robótica
 
@@ -271,7 +278,10 @@ Tópicos de programación para ingeniería.
 
 ### Contribuidores
 Si haces una contribución de contenido no olvides agregarte en esta lista :D
-- Dhilan Ibarra (@dhilannnnnnn)
+- [Diana Martínez](https://github.com/nerddiana)
+- [Dhilan Ibarra](https://github.com/dhilanIM)
+- [Alexis Guijarro](https://github.com/TOTON95)
+
 ### Robots Latam
 Somos una comunidad en español para promover el desarrollo de la robotica en latinoamérica.
 
