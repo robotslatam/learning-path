@@ -211,13 +211,25 @@ Introducción al aprendizaje automático.
 **Introducción a la robótica**
 Historia y teoría de la robótica.
 
+**Cinemática directa**
+
+**Criterio de Grübler**
+
+**Criterio con base en restricciones**
+
+**Parametros de Denavit-Hartenberg**
+
 **Cinemática Inversa**
+
+**Cinemática Diferencial**
 
 **Dinámica Inversa**
 
 **Planificación**
 
 **Localización**
+
+**SLAM**
 
 **ROS**
 Introducción y uso del sistema operativo ROS.
@@ -259,7 +271,7 @@ Tópicos de programación para ingeniería.
 
 ### Contribuidores
 Si haces una contribución de contenido no olvides agregarte en esta lista :D
-
+- Dhilan Ibarra (@dhilannnnnnn)
 ### Robots Latam
 Somos una comunidad en español para promover el desarrollo de la robotica en latinoamérica.
 
