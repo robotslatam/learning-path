@@ -246,26 +246,44 @@ Simulación de sistemas robóticos.
 - Gazebo
 
 ## Matemáticas
+
 **Álgebra lineal**
+
 **Cálculo**
+
 **Cálculo Vectorial**
+
 **Ecuaciones Diferenciales**
+
 **Estadística**
+
 **Probabilidad**
+
 **Teoría de conjuntos**
 
 ## Ingeniería
 **Estática**
+
 **Dinámica**
+
 **Cinemática**
+
 **Mecánica de materiales**
+
 **Mecánica de fluidos**
+
 **Termodinámica**
+
 **Diseño mecánico**
+
 **Modelado de sistemas**
+
 **Teoría de control**
+
 **Teoría de control digital**
+
 **Análisis de circuitos eléctricos**
+
 **Optoelectrónica**
 
 **Programación para ingeniería**
