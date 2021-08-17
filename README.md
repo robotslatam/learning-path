@@ -122,6 +122,19 @@ Elementos básicos de los ADC y DAC.
 
 **Sensores**
 Teoría, funcionamiento y uso de transductores y sensores eléctricos y electrónicos.
+- Sensores activos
+- Sensores pasivos
+- Propioceptores
+- Exteroceptores
+- Táctiles
+- Rueda / Motor
+- Orientación
+- Aceleración
+- Localización fija
+- Estimación activa
+- Movimiento / Velocidad
+- Visión
+
 
 **Dispositivos lógicos programables**
 Diseño y síntesis de circuitos digitales en FPGA.
@@ -136,6 +149,8 @@ Introducción al diseño digital de computadoras.
 Programación de microcontroladores.
 - Lenguaje ensamblador
 - Lenguaje C
+- Lenguaje C++
+- Lenguaje MicroPython
 
 **Protocolos de comunicación electrónicos**
 Introducción al diseño y uso de protocolos de comuniciación electrónicos.
@@ -144,6 +159,9 @@ Introducción al diseño y uso de protocolos de comuniciación electrónicos.
 - SPI
 - MODBUS
 - USB
+    - HID
+- CAN
+- RS-485
 
 **Sistemas de radio digitales**
 Introducción a los sistemas digitales inalámbricos.
@@ -156,6 +174,7 @@ Introducción a los sistemas digitales inalámbricos.
     - WiFi
     - Bluetooth
     - BLE
+    - ZigBee
 
 **Métodos de fabricación industrial de circuitos integrados**
 Física, química e ingeniería en los procesos de fabricación de chips.
@@ -204,6 +223,12 @@ Introducción a la inteligencia artificial.
 Introducción a la visión por computadora.
 - Procesamiento digital de imagenes.
     - Algoritmos
+        - Detección de esquinas
+        - Extracción de características
+        - Detección de bordes
+        - Filtros
+        - Flujo óptico
+        - Creación y detección de Objetos Binarios Grandes (BLOB) 
     - Herramientas
         - OpenCV
 
